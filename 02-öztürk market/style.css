@@ -1,0 +1,56 @@
+.analogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 50px;
+  }
+  .baslik{
+      text-align: center;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+    border-right: 1px solid rgb(201, 109, 55);
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #fff;
+    color: black;
+  }
+  .grid-container{
+      display: grid;
+      grid-template-columns: auto auto;
+  }
+  .item{
+      border: 2px solid green;
+      width: 400px;
+  }
+  footer{
+      text-align: center;
+      background-color: rgb(69, 94, 69);
+  }
+  footer div{
+    background-color: greenyellow;
+  }
+.fo-image{
+    width: 150px;
+    padding: 10px;
+    margin: 10px;
+}
