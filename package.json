@@ -1,0 +1,23 @@
+{
+  "name": "ozturk_market",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ./02-öztürk market" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johncarter49/ozturk_market.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Johncarter49/ozturk_market/issues"
+  },
+  "homepage": "https://github.com/Johncarter49/ozturk_market#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
